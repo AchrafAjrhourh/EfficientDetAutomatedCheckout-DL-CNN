@@ -1,4 +1,4 @@
-#Automated Checkout using EfficientDet: Object Detection for Supermarkets
+# Automated Checkout using EfficientDet: Object Detection for Supermarkets
 
 # Description:
 This project involves building an object detection model using EfficientDet, a state-of-the-art deep learning convolutional neural network, to automatically detect and recognize products checked out by customers in supermarkets. The project utilizes the Retail Product Checkout Dataset to train and test the model.
